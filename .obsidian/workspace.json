@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "15aec3c3877575f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f9526a15aea1449",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9203b6dd4668e69e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/ARTCH - Midterm 2 Prep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8dc14d0bcdb2b8de",
+    "type": "split",
+    "children": [
+      {
+        "id": "102577ffb07825f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e3474727a74a0dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b66a54a1fa5f10b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe3ef2ae94a44280",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ca0c66eaa690cceb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e8c509626917d14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d114c28c844ad8d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Classes/ARTCH - Midterm 2 Prep.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b0c411b7e4938a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Classes/ARTCH - Midterm 2 Prep.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31031eb559ae1eac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8843ee62538e6f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Classes/ARTCH - Midterm 2 Prep.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9203b6dd4668e69e",
+  "lastOpenFiles": [
+    "Classes/ARTCH - Midterm 2 Prep.md",
+    "Classes",
+    "Other/Sail VR Research.md",
+    "desmos-graph.png",
+    "Computer Science/Software Design.md",
+    "Social Impact/Social Impact - MSB 375.md",
+    "Leadership/ELC Workshops/Creating Collaborative Environments.md",
+    "Leadership/ELC Workshops/Unconscious bias.md",
+    "Art/Word Civ Since 1500.md",
+    "Computer Science/Algorithm Design & Analysis.md"
+  ]
+}
